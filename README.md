@@ -1,11 +1,11 @@
 ## Videos 
 
-This project was created as part of my React studies and in order to practice the follow topics:<br />
- - Commuunicating with props.<br />
+This project was created as part of my React studies and to practice the following topics:<br />
+ - Communicating with props.<br />
  - State in React Components.<br />
- - Lifecycle Methods.<br />
+ - Lifecycle methods.<br />
  - Handling user input.<br />
- - Making API Requests using YouTube API.<br />
+ - Making API requests using YouTube API.<br />
  
  This app functions as a YouTube page where the user can search for videos.<br />
  
