@@ -1,15 +1,16 @@
 ## Videos 
 
 This project was created as part of my React studies and in order to practice the follow topics:<br />
- 1)Commuunicating with props.<br />
- 2)State in React Components.<br />
- 3)Lifecycle Methods.<br />
- 4)Handling user input.<br />
- 5)Making API Requests using YouTube API.<br />
+ - Commuunicating with props.<br />
+ - State in React Components.<br />
+ - Lifecycle Methods.<br />
+ - Handling user input.<br />
+ - Making API Requests using YouTube API.<br />
  
- #Homepage screen:
- ![alt text]:(https://i.imgur.com/8svjtqi.jpg)
+ This app functions as a YouTube page where the user can search for videos.<br />
  
+ #Homepage screen:<br />
+ ![Homepage photo](https://i.imgur.com/8svjtqi.jpg)
  
  
 
