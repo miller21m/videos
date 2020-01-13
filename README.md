@@ -1,3 +1,15 @@
+## Videos 
+
+This project was created as part of my React studies and in order to practice the follow topics:
+ 1)Commuunicating with props.
+ 2)State in React Components.
+ 3)Lifecycle Methods.
+ 4)Handling user input.
+ 5)Making API Requests.
+ 
+ 
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
