@@ -1,11 +1,11 @@
 ## Videos 
 
 This project was created as part of my React studies and in order to practice the follow topics:
- 1)Commuunicating with props.
- 2)State in React Components.
- 3)Lifecycle Methods.
- 4)Handling user input.
- 5)Making API Requests.
+ 1)Commuunicating with props.<br />
+ 2)State in React Components.<br />
+ 3)Lifecycle Methods.<br />
+ 4)Handling user input.<br />
+ 5)Making API Requests.<br />
  
  
 
